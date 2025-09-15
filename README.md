@@ -1,6 +1,4 @@
-# ChatBot-without_any_framework
 
-````markdown
 # Conversation Management & Summarization using Groq API
 
 This project demonstrates managing a running chat history with an AI assistant while **truncating old messages** and **periodically summarizing conversation history** using the Groq API.
